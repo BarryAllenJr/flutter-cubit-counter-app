@@ -2,5 +2,5 @@
 
 This is a simple flutter app using BLoC library and cubit for state management.
 
-![App screenshot](/Screenshot 2020-09-01 at 14.40.00.png)
-Format: ![Alt Text](url)
+![alt text](https://github.com/BarryAllenJr/flutter-cubit-counter-app/blob/master/Screenshot%202020-09-01%20at%2014.40.00.png)
+
